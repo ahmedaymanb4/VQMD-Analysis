@@ -1,6 +1,6 @@
 # Summary of the Work Done
 - GitHub Remote Repo (Contains everything) [is here](https://github.com/ahmedaymanb4/Manufacturing-Quality-and-Downtime-Analysis/ ).
-- Database Schema [is here](https://miro.com/app/board/uXjVKm4Zb5w=/?share_link_id=820078798128 ).
+- Database Schema [is here](https://miro.com/app/board/uXjVKm4Zb5w=/?share_link_id=820078798128 ). Note that it's already uploaded here in the repo. However, it's more updated there at the mentioned Miro link.
 
 # Required Deliverables (Project Instructions):
 - Analysis Report.
